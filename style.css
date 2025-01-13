@@ -1,0 +1,70 @@
+body{
+    background-color: black
+}
+
+hr{
+    color: aliceblue;
+    
+}
+
+.heading{
+    background-color: red;
+    width:50vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+h1{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size:65px;
+}
+
+
+.i1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 8vh;
+    font-weight: bolder;
+    text-align: left;
+    height: 50vh;
+}
+.i2{
+    display: flex;
+    justify-content: center;
+
+    height: 50vh;
+
+}
+.i3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vhpx;
+    width: 35vh;
+
+}
+.e1{
+    display: flex;
+    justify-content: center;
+}
+img{
+    
+    border: 2px solid white;
+    height: 35vh;
+    width: 35vh;
+
+    
+}
+
